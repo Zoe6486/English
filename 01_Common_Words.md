@@ -2,7 +2,7 @@
 
 > [!NOTE]
 >
-> Contents: Tech, Appliances, Dining, Beauty
+> Contents: Tech，Beauty
 
 > ## Tech 电子产品
 
