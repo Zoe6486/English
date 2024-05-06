@@ -2,7 +2,7 @@
 
 > [!NOTE]
 >
-> Contents: Tech，Appliances，Dining，Beauty 
+> Contents: Tech, Appliances, Kitchen, Living, Body, Food, Beauty
 
 > ## Tech 电子产品
 
@@ -118,9 +118,21 @@ convection heater /kənˈvekʃn/ 对流加热器
 
 air purifier /ˈpjʊərɪfaɪə(r)/ 空气净化器
 
+freezer /ˈfriːzə(r)/ 冰柜，冷冻室
 
 
-> ## Dining 厨房用品
+
+> ## Kitchen 厨房用品
+
+cabinet /ˈkæbɪnət/ 储物柜, 橱柜
+
+casserole /ˈkæsərəʊl/ 炖锅；砂锅
+
+burner /ˈbɜːnə(r)/ 炉膛，炉心
+
+stove /stəʊv/ 炉子
+
+fun·nel /ˈfʌnl/漏斗
 
 apron /ˈeɪprən/ 围裙
 
@@ -202,6 +214,280 @@ cling film / plastic wrap: 保鲜膜
 
 
 
+
+
+> ## Living
+
+paper clip: 回形针
+
+binder /ˈbaɪndə(r)/ clip: 燕尾夹
+
+antenna /ænˈtenə/ 天线; 触角
+
+cord /kɔːd/ 粗线, 细绳
+
+rope /rəʊp/ 绳
+
+thread /θred/ 线
+
+wire /ˈwaɪə(r)/ 金属丝
+
+cable /ˈkeɪbl/ 电缆
+
+overhead power lines: 架空输电线
+
+landline telephone：固定电话
+
+utility pole /juːˈtɪləti/ /pəʊl/ 电线杆
+
+fishing rod /rɒd/ 钓鱼竿
+
+pillar/ˈpɪlə(r)/ 柱子
+
+a power outage /ˈaʊtɪdʒ/ 停电，断电
+
+shovel /ˈʃʌvl/ 铲子
+
+trowel /ˈtraʊəl/ 小泥铲
+
+spade /speɪd/ 锹; 黑桃
+
+dustpan /ˈdʌstpæn/ 簸箕
+
+broom /bruːm/ 扫帚
+
+groom /ɡruːm/ 新郎；v. 梳洗
+
+boom /buːm/ 繁荣
+
+bomb /bɒm/ 爆炸
+
+bloom /bluːm/ 鲜花盛开（状态）
+
+blossom /ˈblɒsəm/ 开花 （过程）
+
+mop /mɒp/ 拖把
+
+carton /ˈkɑːtn/ 硬纸盒
+
+deli /ˈdeli/ 熟食店
+
+ashtray /ˈæʃtreɪ/ 烟灰缸
+
+thermometer /θəˈmɒmɪtə(r)/ 温度计
+
+lawn mower /ˈlɔːnməʊə(r)/ 割草机
+
+mow /məʊ/ 割草
+
+trim /trɪm/ 修剪
+
+hedge clippers: 树篱修剪刀
+
+rake /reɪk/ 耙子; 用耙子耙
+
+scrape /skreɪp/ 刮擦
+
+hammock /ˈhæmək/吊床
+
+sprinkler /ˈsprɪŋklə(r)/ 喷洒器, 消防喷淋
+
+grill /ɡrɪl/ 烧烤架
+
+charcoal /ˈtʃɑːkəʊl/ 木炭
+
+wheelbarrow /ˈwiːlbærəʊ/ 独轮手推车
+
+patio /ˈpætiəʊ/ 露台，平台
+
+gutter /ˈɡʌtə(r)/ 檐沟
+
+drainpipe /ˈdreɪnpaɪp/ 雨水管
+
+porch /pɔːtʃ/ 门廊
+
+banister /ˈbænɪstə(r)/ 栏杆, 扶手
+
+wall-to-wall carpeting/ˈkɑːpɪtɪŋ/ (铺满)地毯
+
+recliner /rɪˈklaɪnə(r)/ 躺椅
+
+stereo system/ˈsteriəʊ/ 立体声音响系统
+
+closet /ˈklɒzɪt/ 壁橱
+
+candlestick /ˈkændlstɪk/ 烛台，烛架
+
+hanger/ˈhæŋə(r)/ 衣架
+
+blinds: 百叶窗帘
+
+disposable diaper 一次性尿布/dɪˈspəʊzəbl/  /ˈdaɪəpə(r)/
+
+bib /bɪb/ 围嘴
+
+stroller /ˈstrəʊlə(r)/ 婴儿手推车
+
+cradle /ˈkreɪdl/ 摇篮
+
+showerhead: 淋浴头
+
+detergent /dɪˈtɜːdʒənt/ 洗衣粉
+
+mousetrap /ˈmaʊstræp/ 捕鼠夹
+
+corkscrew /ˈkɔːkskruː/ 螺旋开瓶器
+
+cork /kɔːk/ 木栓，软木塞
+
+screw /skruː/ 螺丝钉; 拧紧
+
+screwdriver /ˈskruːdraɪvə(r)/ 螺丝刀
+
+scrub /skrʌb/ 擦洗
+
+
+
+
+
+> ## Body
+
+hip /hɪp/ n. 髋; a. 赶时髦的; 好哇! (用于欢呼)
+
+calf /kɑːf/ 小腿肚, 腓
+
+thigh /θaɪ/ 大腿
+
+thumb /θʌm/ 大拇指
+
+(index) finger: 食指
+
+middle/ring/little finger: 中指/无名指/小拇指
+
+palm /pɑːm/ 掌心
+
+nostril /ˈnɒstrəl/ 鼻孔
+
+eyebrow/eyelid/eyelashes: 眉毛/眼皮/睫毛
+
+iris /ˈaɪrɪs/ 虹膜；鸢尾
+
+pupil /ˈpjuːpl/瞳孔
+
+windpipe /ˈwɪndpaɪp/ 气管
+
+intestines /ɪnˈtestɪn/ 肠
+
+artery /ˈɑːtəri/ 动脉
+
+vein /veɪn/ 静脉
+
+pancreas /ˈpæŋkriəs/ 胰腺
+
+bladder /ˈblædə(r)/ 膀胱
+
+sling /slɪŋ/ 悬带, 吊腕
+
+crutch /krʌtʃ/ 腋杖
+
+walking stick: 拐杖
+
+bruise: 青肿, 瘀伤
+
+vomit /ˈvɒmɪt/ 呕吐
+
+ointment /ˈɔɪntmənt/ 药膏, 软膏
+
+
+
+> ## Food
+
+sugarcane: 甘蔗
+
+grapefruit /ˈɡreɪpfruːt/ 西柚
+
+cranberry /ˈkrænbəri/ 蔓越莓
+
+nectarine /ˈnektəriːn/ 油桃
+
+apricot /ˈeɪprɪkɒt/ 杏
+
+plum /plʌm/ 李子
+
+cashew /ˈkæʃuː/ 腰果
+
+almond /ˈɑːmənd/  扁桃仁, 杏仁
+
+hazelnut /ˈheɪzlnʌt/ 榛子
+
+walnut /ˈwɔːlnʌt/ 核桃
+
+peanut /ˈpiːnʌt/ 花生
+
+chestnut /ˈtʃesnʌt/ 栗子
+
+avocado /ˌævəˈkɑːdəʊ/ 牛油果
+
+cocktail /ˈkɒkteɪl/ 鸡尾酒; 冷盘, 餐前小吃
+
+sundae /ˈsʌndeɪ/ 圣代
+
+ice cream cone /kəʊn/ 甜筒
+
+
+
+> ## Clothes
+
+down vest /vest/ 羽绒马甲
+
+parka /ˈpɑːkə/ 派克大衣; 风雪外套
+
+overcoat /ˈəʊvəkəʊt/ 长大衣
+
+crewneck sweater: 圆领毛衣
+
+earmuffs /ˈɪəmʌfs/ 耳罩
+
+tights /taɪts/ 紧身裤
+
+beret /ˈbereɪ/ 贝雷帽
+
+shoelace /ˈʃuːleɪs/ 鞋带
+
+buckle /ˈbʌkl/ 皮带搭扣
+
+sandal /ˈsændl/ 凉鞋
+
+cardigan /ˈkɑːdɪɡən/ 开襟毛衣
+
+briefcase /ˈbriːfkeɪs/ 公文包
+
+loafer /ˈləʊfə(r)/ 乐福鞋，平底便鞋
+
+blouse /blaʊz/ 女衬衫, 宽松短上衣
+
+undershirt /ˈʌndəʃɜːt/贴身汗背心
+
+underpants /ˈʌndəpænts/ 内裤
+
+bathrobe /ˈbɑːθrəʊb/ 浴袍
+
+pyjamas /pəˈdʒɑːməz/ 一套睡衣裤
+
+strand of beads /strænd/ /biːd/ 串珠
+
+toiletries /ˈtɔɪlətriz/ 洗漱用品
+
+polka dot/ˈpɒlkə/ 波点，大圆点
+
+striped /straɪpt/ 条纹的
+
+checked /tʃekt/ 格子的(双色)
+
+plaid /plæd/ 彩格
+
+
+
 > ## Beauty 美妆
 
 skincare: 护肤
@@ -226,6 +512,20 @@ foundation: 粉底
 
 blusher / blush /ˈblʌʃə(r)/ 腮红
 
+lipstick /ˈlɪpstɪk/ 口红
+
+eyebrow pencil: 眉笔
+
+eyeliner /ˈaɪlaɪnə(r)/ 眼线笔
+
+eye shadow: 眼影
+
+mascara /mæˈskɑːrə/ 睫毛膏
+
+nail polish: 指甲油
+
+nail clippers: 指甲剪
+
 perfume /ˈpɜːfjuːm/ 香水
 
 fragrance /ˈfreɪɡrəns/ 香味；香水
@@ -234,51 +534,46 @@ fragrant candle: 香薰蜡烛
 
 air freshener /ˈfreʃnə(r)/ 香薰
 
-> ## Living
 
-paper clip: 回形针
 
-binder /ˈbaɪndə(r)/ clip: 燕尾夹
+> ## Equipment
 
-rope /rəʊp/ 绳
+fire hydrant /ˈhaɪdrənt/消防栓
 
-thread /θred/ 线
+fire extinguisher /ɪkˈstɪŋɡwɪʃ/ 灭火器
 
-wire /ˈwaɪə(r)/ 金属丝
+nozzle /ˈnɒzl/ 管口；喷嘴
 
-cable /ˈkeɪbl/ 电缆
+handcuffs /ˈhændkʌfs/ 手铐
 
-overhead power lines: 架空输电线
+nightstick /ˈnaɪtstɪk/ 警棍
 
-landline telephone：固定电话
+visor /ˈvaɪzə(r)/ 汽车遮阳板
 
-utility pole /juːˈtɪləti/ /pəʊl/ 电线杆
+steering wheel /ˈstɪərɪŋ/ 方向盘
 
-fishing rod /rɒd/ 钓鱼竿
+life jacket: 救生衣
 
-pillar/ˈpɪlə(r)/ 柱子
 
-a power outage /ˈaʊtɪdʒ/ 停电，断电
 
-shovel /ˈʃʌvl/ 铲子
 
-spade /speɪd/ 锹; 黑桃
 
-trowel /ˈtraʊəl/ 小泥铲
+> ## Animals
 
-dustpan /ˈdʌstpæn/ 簸箕
+cactus /ˈkæktəs/ 仙人掌
 
-broom /bruːm/ 扫帚
+pigeon /ˈpɪdʒɪn/  鸽子
 
-groom /ɡruːm/ 新郎；v. 梳洗
+hummingbird /ˈhʌmɪŋbɜːd/ 蜂鸟
 
-boom /buːm/ 繁荣
+seagull /ˈsiːɡʌl/ 海鸥
 
-bomb /bɒm/ 爆炸
+sparrow /ˈspærəʊ/ 麻雀
 
-bloom /bluːm/ 鲜花盛开（状态）
+swallow /ˈswɒləʊ/ 燕子
 
-blossom /ˈblɒsəm/ 开花 （过程）
+woodpecker /ˈwʊdpekə(r)/ 啄木鸟
 
-mop /mɒp/ 拖把
+flamingo /fləˈmɪŋɡəʊ/火烈鸟
 
+chim·pan·zee /ˌtʃɪmpænˈziː/ 猩猩
